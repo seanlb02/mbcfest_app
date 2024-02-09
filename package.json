@@ -1,0 +1,40 @@
+{
+  "name": "playlist_map",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@carefully-coded/react-text-gradient": "^1.0.6",
+    "@chakra-ui/react": "^2.8.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@next/font": "13.1.6",
+    "framer-motion": "^10.15.1",
+    "leaflet": "^1.9.3",
+    "mapbox-gl": "^3.0.0-beta.1",
+    "moment": "^2.29.4",
+    "next": "13.1.6",
+    "next-pwa": "^5.6.0",
+    "react": "^18.2.0",
+    "react-device-detect": "^2.2.3",
+    "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.0",
+    "react-loader-spinner": "^5.3.4",
+    "sharp": "^0.31.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "prettier": "3.2.5",
+    "tailwindcss": "^3.2.7"
+  },
+  "resolutions": {
+    "**/react": "16.0.1",
+    "**/react-dom": "16.0.1"
+  }
+}
