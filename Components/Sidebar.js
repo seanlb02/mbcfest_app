@@ -33,12 +33,12 @@ export default function Sidebar({
         <Gradient text="Explore the map, click a venue to open set times" />
       </div>
       {/* <div className="flex w-full h-24 border"> */}
-      <Image
+      {/* <Image
         src="/white_spin_logo.gif"
         className="flex  z-50 w-full h-24"
         width={100}
         height={1000}
-      ></Image>
+      ></Image> */}
       {/* </div> */}
 
       {show ? (

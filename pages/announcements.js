@@ -9,7 +9,9 @@ export default function FeedPage() {
   return (
     <div className="h-[100h] w-[100vw]">
       <Navdrawer />
-      <Feed />
+   
+        <Feed/>
+   
     </div>
   );
 }

@@ -29,7 +29,7 @@ export default function Navdrawer() {
   };
 
   return (
-    <div className="md:hidden bg-white z-50 shadow-b-2 py-2 items-center align-center flex  ">
+    <div className="md:hidden fixed top-0 bg-white z-50 shadow-b-2 py-2 items-center align-center flex  ">
       <div className="">
         <div className=" p-2 pt-3 flex m-auto items-center w-[100vw] gap-4">
           <Image
